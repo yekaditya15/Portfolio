@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/yekaditya15",
   resume:
-    "https://drive.google.com/file/d/1HrlFg5H0UzPndhyMd8N0BNNCJ3jW0glX/view?usp=drive_link",
+    "https://drive.google.com/file/d/1P-sK_bd-9TdQPON8XlPQN0h3Zn4g6eEl/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/yekaditya-devadi-2283b01a1/",
   insta:
     "https://www.instagram.com/yekaditya_15?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
@@ -309,5 +309,39 @@ export const projects = [
     tags: ["Python", "ML", "TensorFlow", "Scikit-Image"],
     category: "machine learning",
     github: "https://github.com/yekaditya15/shipdetection",
+  },
+  {
+    id: 13,
+    title: "Object Counting",
+    description:
+      "This project utilizes image processing to automate accurate and efficient counting of distinct objects in images, addressing the limitations of human counting and intending to scale with deep learning techniques for enhanced accuracy in diverse applications.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/objectcounting.png?alt=media&token=ae760c2a-be82-4297-8625-629cce27d003",
+    tags: ["Python", "OpenCv", "Image Proceesing Algorithms"],
+    category: "Research Works",
+    github: "https://github.com/yekaditya15/Object-Counting-",
+  },
+  {
+    id: 14,
+    title: "Natural Language Queryable Data Pipeline",
+    description:
+      "This project pioneers a user-friendly, natural language queryable data pipeline, automating web data extraction without technical expertise. With implications for business, machine learning, and research, it streamlines the collection and processing of large-scale internet data",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/nlp-logo.png?alt=media&token=ab737fb2-2854-4bf5-836a-7cc417843e5a",
+    tags: ["Python", "NLP", "WebScrapping", "OpenAI"],
+    category: "Research Works",
+    github:
+      "https://github.com/yekaditya15/Natural-Language-Queryable-Data-Pipeline",
+  },
+  {
+    id: 15,
+    title: "Steganograph",
+    description:
+      "Imagine a tranquil image of a serene landscape. Within its pixels lies a hidden realm—this is steganography in action. Like an artistic secret code, it conceals information within the visual canvas, offering a unique way to encode messages discreetly. Explore the art of hidden communication through our project, where images go beyond what meets the eye.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/stegano.png?alt=media&token=cd992635-31fd-49e2-9233-3cefaee320bd",
+    tags: ["Python", "ImageProcessing", "OpenCV", "Algorithms"],
+    category: "Research Works",
+    github: "https://github.com/yekaditya15/Steganography",
   },
 ];

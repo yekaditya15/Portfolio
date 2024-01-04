@@ -63,6 +63,22 @@ const Projects = ({ openModal, setOpenModal }) => {
               MACHINE LEARNING
             </ToggleButton>
           )}
+          {toggle === "Research Works" ? (
+            <ToggleButton
+              active
+              value="research"
+              onClick={() => setToggle("Research Works")}
+            >
+              RESEARCH WORKS
+            </ToggleButton>
+          ) : (
+            <ToggleButton
+              value="research"
+              onClick={() => setToggle("Research Works")}
+            >
+              RESEARCH WORKS
+            </ToggleButton>
+          )}
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
