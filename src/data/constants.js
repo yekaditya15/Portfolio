@@ -123,6 +123,11 @@ export const skills = [
         image:
           "https://static.studytonight.com/css/resource.v3/icons/subject/logo-ds.svg",
       },
+      {
+        name: "Prompting",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/prompt.png?alt=media&token=982041d6-5730-414a-852b-7690b26b0783",
+      },
     ],
   },
 ];
@@ -227,8 +232,9 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/localhost_foodsystem_.png?alt=media&token=1922d1a5-68eb-4f79-aff1-7cfc7cb62959",
     tags: ["PHP", "JQuery", "BootStrap", "MySQL"],
     category: "web app",
-    github: "https://github.com/yekaditya15/Attendance-System/tree/main",
-    webapp: "https://github.com/yekaditya15/Attendance-System/tree/main",
+    github: "https://github.com/yekaditya15/foodOrderingSystem",
+    webapp:
+      "https://drive.google.com/file/d/1NTW_2O0s82AH30SsxvEdhrpyek6t7M7k/view?usp=drive_link",
   },
   {
     id: 6,
