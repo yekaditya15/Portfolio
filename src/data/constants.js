@@ -177,6 +177,18 @@ export const education = [
 export const projects = [
   {
     id: 1,
+    title: "Spotify Clone",
+    description:
+      "A Spotify clone frontend aims to replicate the user interface and design elements of the popular music streaming service, Spotify. This project focuses solely on the client-side or frontend development, without implementing the actual backend functionalities such as user authentication, music storage, or streaming services.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/spotify%20clone.png?alt=media&token=312dd7a7-3f21-464f-ab20-2589fe4061dc",
+    tags: ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/yekaditya15/spotify-clone",
+    webapp: "https://yekaditya15.github.io/spotify-clone/",
+  },
+  {
+    id: 1,
     title: "Hotstar Clone",
     description:
       "Hotstar clone project, designed with HTML, CSS, and JS, focuses on the frontend with basic interactive elements. The homepage presents an aesthetically pleasing layout featuring sections for popular movies, TV shows, and events. Users can navigate through different content categories using a responsive design that ensures compatibility across devices. The project includes an integrated video player for a seamless viewing experience, with interactive UI elements such as sliders and buttons enhancing user engagement. While functionalities like registration and signup are part of the visual design, they are not fully implemented, making it a foundational frontend project emphasizing the user interface.",
