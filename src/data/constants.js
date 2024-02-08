@@ -176,6 +176,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 16,
+    title: "Travel Buddy Advisor",
+    description:
+      "This is a Travel Advisor web application built using React, RapidAPI, Google Maps API, and Material-UI. The app allows users to explore various travel destinations, view detailed information about places, hoetels and restaurant.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/Screenshot%202024-02-08%20045842.png?alt=media&token=109c63da-9878-4788-801d-81936681f57b",
+    tags: ["React", "Material UI", "RapidAPI", "TripAdvisor API"],
+    category: "web app",
+    github: "https://github.com/yekaditya15/Travel-Advisor",
+    webapp: "https://travel-buddy-advisor.netlify.app/",
+  },
+
+  {
     id: 1,
     title: "Hotstar Clone",
     description:
