@@ -225,6 +225,19 @@ export const projects = [
     webapp: "https://yekaditya15.github.io/sukoban_game/",
   },
   {
+    id: 17,
+    title: "SnapShot",
+    description:
+      "Created a Snapshot ReactJS project utilizing the Flickr API. This project provides a user-friendly interface for exploring and viewing images fetched from the Flickr platform, offering a seamless and engaging visual experience.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/snapshot.png?alt=media&token=ebbf988e-7d8a-49ba-8fe5-aa7a1d0832c7",
+    tags: ["ReactJs", "ContextAPI", "FlickerAPI"],
+    category: "web app",
+    github: "https://github.com/yekaditya15/SnapShot",
+    webapp: "https://yekaditya15.github.io/SnapShot/#/SnapScout/mountain",
+  },
+
+  {
     id: 4,
     title: "Face Attendance System",
     description:
