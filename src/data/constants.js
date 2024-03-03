@@ -187,6 +187,18 @@ export const projects = [
     github: "https://github.com/yekaditya15/Travel-Advisor",
     webapp: "https://travel-buddy-advisor.netlify.app/",
   },
+  {
+    id: 17,
+    title: "Movie Recommender - Machine Learning",
+    description:
+      "Unleash the power of machine learning and Streamlit with our Movie Recommender App. Tell us your favorite movies, and watch as our smart algorithm crafts a personalized list of similar films. Elevate your movie nights with tailored recommendations, making every watch a memorable experience. Effortless, intuitive, and all about enhancing your cinematic journey",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/movierecommender.png?alt=media&token=0b6df5be-d02f-43db-b196-cea5db7823b7",
+    tags: ["Python", "Machine Learning", "Streamlit", "NLTK"],
+    category: "web app",
+    github: "https://github.com/yekaditya15/Movie_Recommender_MachineLearning",
+    webapp: "https://movie-recommender-system-ml-28bd1fabcea8.herokuapp.com/",
+  },
 
   {
     id: 1,
