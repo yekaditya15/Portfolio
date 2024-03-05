@@ -135,7 +135,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    role: "Frontend Engineer Intern",
+    role: "Web Developer Intern",
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/codsoft.jpeg?alt=media&token=8e89ad4d-de57-43fb-a100-d626851c8c33",
     company: "CodSoft",
     date: "June 2023 - August 2023",
@@ -203,7 +203,7 @@ export const projects = [
     id: 17,
     title: "Movie Recommender - Machine Learning",
     description:
-      "Unleash the power of machine learning and Streamlit with our Movie Recommender App. Tell us your favorite movies, and watch as our smart algorithm crafts a personalized list of similar films. Elevate your movie nights with tailored recommendations, making every watch a memorable experience. Effortless, intuitive, and all about enhancing your cinematic journey",
+      "Join the power of machine learning and Streamlit with our Movie Recommender App. Tell us your favorite movies, and watch as our smart algorithm crafts a personalized list of similar films. Elevate your movie nights with tailored recommendations, making every watch a memorable experience. Effortless, intuitive, and all about enhancing your cinematic journey",
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/movierecommender.png?alt=media&token=0b6df5be-d02f-43db-b196-cea5db7823b7",
     tags: ["Python", "Machine Learning", "Streamlit", "NLTK"],
