@@ -199,18 +199,17 @@ export const projects = [
     github: "https://github.com/yekaditya15/Travel-Advisor",
     webapp: "https://travel-buddy-advisor.netlify.app/",
   },
-
   {
-    id: 1,
-    title: "Hotstar Clone",
+    id: 17,
+    title: "Movie Recommender - Machine Learning",
     description:
-      "Hotstar clone project, designed with HTML, CSS, and JS, focuses on the frontend with basic interactive elements. The homepage presents an aesthetically pleasing layout featuring sections for popular movies, TV shows, and events. Users can navigate through different content categories using a responsive design that ensures compatibility across devices. The project includes an integrated video player for a seamless viewing experience, with interactive UI elements such as sliders and buttons enhancing user engagement. While functionalities like registration and signup are part of the visual design, they are not fully implemented, making it a foundational frontend project emphasizing the user interface.",
+      "Unleash the power of machine learning and Streamlit with our Movie Recommender App. Tell us your favorite movies, and watch as our smart algorithm crafts a personalized list of similar films. Elevate your movie nights with tailored recommendations, making every watch a memorable experience. Effortless, intuitive, and all about enhancing your cinematic journey",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/hotstar.png?alt=media&token=a1c8332b-a3a6-42a8-848b-d971a1eedd2e",
-    tags: ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/movierecommender.png?alt=media&token=0b6df5be-d02f-43db-b196-cea5db7823b7",
+    tags: ["Python", "Machine Learning", "Streamlit", "NLTK"],
     category: "web app",
-    github: "https://github.com/yekaditya15/HotstarClone",
-    webapp: "https://yekaditya15.github.io/HotstarClone/",
+    github: "https://github.com/yekaditya15/Movie_Recommender_MachineLearning",
+    webapp: "https://movie-recommender-machinelearning.onrender.com/",
   },
   {
     id: 2,
@@ -224,6 +223,20 @@ export const projects = [
     github: "https://github.com/yekaditya15/weatherforecastapp",
     webapp: "https://yekaditya15.github.io/weatherforecastapp/",
   },
+
+  {
+    id: 1,
+    title: "Hotstar Clone",
+    description:
+      "Hotstar clone project, designed with HTML, CSS, and JS, focuses on the frontend with basic interactive elements. The homepage presents an aesthetically pleasing layout featuring sections for popular movies, TV shows, and events. Users can navigate through different content categories using a responsive design that ensures compatibility across devices. The project includes an integrated video player for a seamless viewing experience, with interactive UI elements such as sliders and buttons enhancing user engagement. While functionalities like registration and signup are part of the visual design, they are not fully implemented, making it a foundational frontend project emphasizing the user interface.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/hotstar.png?alt=media&token=a1c8332b-a3a6-42a8-848b-d971a1eedd2e",
+    tags: ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/yekaditya15/HotstarClone",
+    webapp: "https://yekaditya15.github.io/HotstarClone/",
+  },
+
   {
     id: 3,
     title: "Sukoban A Childhood Game",
@@ -247,18 +260,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/yekaditya15/SnapShot",
     webapp: "https://yekaditya15.github.io/SnapShot/#/SnapScout/mountain",
-  },
-  {
-    id: 17,
-    title: "Movie Recommender - Machine Learning",
-    description:
-      "Unleash the power of machine learning and Streamlit with our Movie Recommender App. Tell us your favorite movies, and watch as our smart algorithm crafts a personalized list of similar films. Elevate your movie nights with tailored recommendations, making every watch a memorable experience. Effortless, intuitive, and all about enhancing your cinematic journey",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/movierecommender.png?alt=media&token=0b6df5be-d02f-43db-b196-cea5db7823b7",
-    tags: ["Python", "Machine Learning", "Streamlit", "NLTK"],
-    category: "web app",
-    github: "https://github.com/yekaditya15/Movie_Recommender_MachineLearning",
-    webapp: "https://movie-recommender-system-ml-28bd1fabcea8.herokuapp.com/",
   },
 
   {
