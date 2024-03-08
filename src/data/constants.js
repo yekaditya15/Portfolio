@@ -176,7 +176,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 16,
+    id: 17,
     title: " QuizNest - A Quiz Portal",
     description:
       "The MERN Quiz App allows users to practice quizzes with real-time feedback, while admins can create exams, monitor user progress, and review reports instantly. Users have personalized dashboards to track performance trends, fostering an efficient and engaging learning experience.",
@@ -186,6 +186,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/yekaditya15/Quiz_Portal_MERN_CLIENT",
     webapp: "https://quiz-portal-mern-client.vercel.app/",
+  },
+  {
+    id: 18,
+    title: " StackCart - Ecommerce App",
+    description:
+      "StackCart, a cutting-edge MERN-based e-commerce platform, prioritizes security with JWT authentication and role-based admin controls. Seamlessly integrated payment processing and dynamic product filtering enhance user experience for efficient transactions and precise searches.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/stackcart.png?alt=media&token=45a72ec3-a585-4439-851d-380d04f047a7",
+    tags: ["React", "Node", "Express", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/yekaditya15/STACK_CART_CLIENT",
+    webapp: "https://stack-cart-client.vercel.app/",
   },
   {
     id: 16,
