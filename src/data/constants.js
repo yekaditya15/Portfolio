@@ -135,9 +135,27 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    role: "SDE Intern",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/gytworkz_logo.jpeg?alt=media&token=ce7a8523-22b2-4f43-b97a-36efa2ddf296",
+    company: "Gytworkz, Hyderabad",
+    date: "December 2024 - Present",
+    desc: "Currently working as an SDE Intern, focusing on building dynamic and efficient web applications using Angular. Skilled in implementing modern UI designs, optimizing performance, and collaborating with teams to deliver scalable solutions.",
+    skills: ["Angular", "TypeScript", "HTML", "CSS", "JavaScript"],
+  },
+  {
+    id: 1,
+    role: "Full Stack Intern",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/earthemission_logo.jpeg?alt=media&token=fddc1cd0-77da-42ed-9600-34df75ef9d80",
+    company: "Earth Emission, Remote",
+    date: "Sep 2024 - Nov 2024",
+    desc: "Worked on building dynamic dashboards using Next.js, implementing responsive and interactive features with React. Also contributed to backend development using MySQL for database management and ensuring seamless integration between frontend and backend.",
+    skills: ["Next.js", "ReactJS", "MySQL", "HTML", "CSS", "JavaScript"],
+  },
+  {
+    id: 0,
     role: "Web Developer Intern",
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/codsoft.jpeg?alt=media&token=8e89ad4d-de57-43fb-a100-d626851c8c33",
-    company: "CodSoft",
+    company: "CodSoft, Kolkata",
     date: "June 2023 - August 2023",
     desc: "Adaptable web developer skilled in versatile languages and frameworks, excelling in responsive design, problem-solving for optimal website functionality, and dedicated to continuous learning for cutting-edge solutions.",
     skills: ["ReactJS", "Redux", "NodeJs", "HTML", "CSS", "JavaScript"],
@@ -151,7 +169,7 @@ export const education = [
     school: "Indian Institute of Information Technology, Kalyani",
     date: "2020 - 2024",
     grade: "8.5 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Indian Institute of Information Technology, Kalyani. I have completed 7 semesters and have a CGPA of 8.5. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I have completed a Bachelor's degree in Computer Science and Engineering at Indian Institute of Information Technology, Kalyani, with a CGPA of 8.5. During my studies, I took courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others, and worked on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {

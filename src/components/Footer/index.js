@@ -102,7 +102,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Devadi Yekaditya. All rights reserved.
+          &copy; 2025 Devadi Yekaditya. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
