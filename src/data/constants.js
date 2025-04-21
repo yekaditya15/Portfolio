@@ -194,6 +194,45 @@ export const education = [
 
 export const projects = [
   {
+    id: 19,
+    title: "WriteHub - AI-powered Blog Platform",
+    description:
+      "WriteHub is an AI-powered full-stack blogging platform designed to enhance the content creation experience. It leverages Hugging Face open-source NLP models to provide intelligent features like content summarization, sentiment analysis, and AI writing suggestions. The platform includes secure JWT-based authentication, allowing users to manage their personalized dashboards and access control. A dynamic and responsive React frontend enables seamless blog editing, categorization, and live content enhancement. The Express.js backend handles blog CRUD operations, user management, and inference pipelines, with MongoDB as the primary database.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/blog.png?alt=media&token=7ee78f11-77c4-4ebc-962b-be1f7ec3d412",
+    tags: [
+      "React",
+      "FastAPI",
+      "Groq LLaMA 3.3-70B",
+      "FAISS",
+      "HuggingFace",
+      "DuckDuckGo Search API",
+    ],
+    category: "web app",
+    github: "https://github.com/yekaditya15/blog_applicattion",
+    webapp: "https://blog-applicattionclient.vercel.app/",
+  },
+  {
+    id: 19,
+    title: "InfoChat AI – Intelligent Document & Web-Powered Chatbot",
+    description:
+      "InfoChat AI is a smart, full-stack conversational assistant that integrates Groq’s LLaMA 3.3-70B model to provide intelligent and context-aware responses. It features dual-mode capabilities: Document Q&A—allowing users to ask questions from uploaded PDFs, DOCX, and TXT files using FAISS and Hugging Face embeddings—and general chat powered by live DuckDuckGo search. The scalable backend, built with FastAPI, handles smart document chunking, memory tracking, and robust logging, while the React.js frontend ensures a smooth and responsive user interface. It’s built with modularity in mind for easy extension and integration of future AI tools.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-c5c0a.appspot.com/o/aichat.png?alt=media&token=0e0ec021-51a2-48ca-9c22-ac4b13aa6144",
+    tags: [
+      "React.js",
+      "FastAPI",
+      "Groq LLaMA 3.3-70B",
+      "FAISS",
+      "HuggingFace Transformers",
+      "DuckDuckGo Search API",
+    ],
+    category: "web app",
+    github: "https://github.com/yekaditya15/AI_Chatbot",
+    webapp: "https://github.com/yekaditya15/AI_Chatbot",
+  },
+
+  {
     id: 17,
     title: " QuizNest - A Quiz Portal",
     description:
